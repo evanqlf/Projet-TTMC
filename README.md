@@ -12,8 +12,8 @@ avant de répondre à une question. Le joueur choisit combien de points il pense
 mériter, puis répond. Plus la mise est haute, plus les points gagnés (ou perdus) 
 sont importants.
 
-- 👥 Nombre de joueurs : [X joueurs]
-- Ce joue en équipe
+- 👥 Nombre de joueurs : X joueurs
+- Se joue en équipe
 - 🎯 But : atteindre le score le plus élevé en fin de partie
 
 ---
